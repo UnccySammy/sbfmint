@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEcd8f5Ff68E12Dfe6dD5BC009838B8F9A4781126",
+  "SCAN_LINK": "https://polygonscan.com/address/0xecd8f5ff68e12dfe6dd5bc009838b8f9a4781126",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Peskiez",
+  "SYMBOL": "PPZ",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 485000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pesks",
+  "SHOW_BACKGROUND": true
+}
